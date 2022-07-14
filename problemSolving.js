@@ -65,3 +65,5 @@ console.log('Sum of all numbers', loopingThroughCommandLine(arrayOfCommandLineAr
 // git branch -M main
 // git remote add origin git@github.com:senhorgomes/problemSolvingCode.git
 // git push -u origin main
+
+console.log("hello")
